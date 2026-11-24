@@ -1,7 +1,8 @@
+
 User-agent: *
 Allow: /
 
 Disallow: /admin/
 Disallow: /private/
 
-Sitemap: https://zxcpavel.github.io/seo-practice/sitemap.xml
+Sitemap: https://seo-practice.animedia1212.workers.dev/sitemap.xml
